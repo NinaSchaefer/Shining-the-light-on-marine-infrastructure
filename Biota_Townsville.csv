@@ -1,0 +1,607 @@
+Single_Dual_Sampling,Sampling,Pylon,Pylon_side,Treatment,top_bottom,left_right,sample name,taxa,jar + label weight,jar + label + sample weight,sample wet weight
+Dual,Start,1,1,Shade,bottom,left,# 1,soft worms,4.0532,5.6161,1.5629
+Dual,Start,1,1,Shade,bottom,left,# 1,hard worms,15.7636,19.0588,3.2952
+Dual,Start,1,1,Shade,bottom,left,# 1,live oysters,58.0927,67.1983,9.1056
+Dual,Start,1,1,Shade,bottom,left,# 1,dead oysters,59.0214,66.6616,7.6402
+Dual,Start,1,1,Shade,bottom,left,# 1,other bivalves,0,0,0
+Dual,Start,1,1,Shade,bottom,left,# 1,dead barnacles,15.8652,17.8395,1.9743
+Dual,Start,1,1,Shade,bottom,left,# 1,live barnacles,0,0,0
+Dual,Start,1,1,Shade,bottom,left,# 1,ascidians,58.9592,119.7038,60.7446
+Dual,Start,1,1,Shade,bottom,left,# 1,algae,0,0,0
+Dual,Start,1,1,Shade,bottom,left,# 1,sponge,0,0,0
+Dual,Start,1,1,Shade,bottom,left,# 1,bryozoans,15.9354,16.9976,1.0622
+Dual,Start,1,1,Shade,bottom,left,# 1,anemone,0,0,0
+Dual,Start,1,1,Shade,bottom,left,# 1,mobile invertebrates,0,0,0
+Dual,Start,1,1,Shade,top,right,# 1,soft worms,3.998,4.8027,0.8047
+Dual,Start,1,1,Shade,top,right,# 1,hard worms,4.1469,4.5835,0.4366
+Dual,Start,1,1,Shade,top,right,# 1,live oysters,15.9456,19.184,3.2384
+Dual,Start,1,1,Shade,top,right,# 1,dead oysters,15.8153,17.3695,1.5542
+Dual,Start,1,1,Shade,top,right,# 1,other bivalves,0,0,0
+Dual,Start,1,1,Shade,top,right,# 1,dead barnacles,4.0851,5.327,1.2419
+Dual,Start,1,1,Shade,top,right,# 1,live barnacles,15.8902,19.9234,4.0332
+Dual,Start,1,1,Shade,top,right,# 1,ascidians,59.0665,96.183,37.1165
+Dual,Start,1,1,Shade,top,right,# 1,algae,0,0,0
+Dual,Start,1,1,Shade,top,right,# 1,sponge,4.0788,4.2949,0.2161
+Dual,Start,1,1,Shade,top,right,# 1,bryozoans,4.0531,4.4732,0.4201
+Dual,Start,1,1,Shade,top,right,# 1,anemone,0,0,0
+Dual,Start,1,1,Shade,top,right,# 1,mobile invertebrates,0,0,0
+Single,End,1,1,Shade,bottom,right,pylon 1,soft worms,4.0944,9.3845,5.2901
+Single,End,1,1,Shade,bottom,right,pylon 1,hard worms,15.7494,30.1322,14.3828
+Single,End,1,1,Shade,bottom,right,pylon 1,live oysters,0,0,0
+Single,End,1,1,Shade,bottom,right,pylon 1,dead oysters,58.0641,81.0185,22.9544
+Single,End,1,1,Shade,bottom,right,pylon 1,other bivalves,0,0,0
+Single,End,1,1,Shade,bottom,right,pylon 1,dead barnacles,4.0239,5.156,1.1321
+Single,End,1,1,Shade,bottom,right,pylon 1,live barnacles,3.9741,6.5241,2.55
+Single,End,1,1,Shade,bottom,right,pylon 1,ascidians,15.9197,25.2738,9.3541
+Single,End,1,1,Shade,bottom,right,pylon 1,algae,4.0599,4.3381,0.2782
+Single,End,1,1,Shade,bottom,right,pylon 1,sponge,15.9036,27.0718,11.1682
+Single,End,1,1,Shade,bottom,right,pylon 1,bryozoans,4.0656,5.7671,1.7015
+Single,End,1,1,Shade,bottom,right,pylon 1,anemone,0,0,0
+Single,End,1,1,Shade,bottom,right,pylon 1,mobile invertebrates,0,0,0
+Dual,End,1,1,Shade,bottom,left,pylon 1,soft worms,15.8047,19.7822,3.9775
+Dual,End,1,1,Shade,bottom,left,pylon 1,hard worms,15.9959,30.5945,14.5986
+Dual,End,1,1,Shade,bottom,left,pylon 1,live oysters,15.7037,17.6793,1.9756
+Dual,End,1,1,Shade,bottom,left,pylon 1,dead oysters,59.545,79.0062,19.4612
+Dual,End,1,1,Shade,bottom,left,pylon 1,other bivalves,0,0,0
+Dual,End,1,1,Shade,bottom,left,pylon 1,dead barnacles,4.0567,4.7071,0.6504
+Dual,End,1,1,Shade,bottom,left,pylon 1,live barnacles,0,0,0
+Dual,End,1,1,Shade,bottom,left,pylon 1,ascidians,15.6042,38.2733,22.6691
+Dual,End,1,1,Shade,bottom,left,pylon 1,algae,0,0,0
+Dual,End,1,1,Shade,bottom,left,pylon 1,sponge,0,0,0
+Dual,End,1,1,Shade,bottom,left,pylon 1,bryozoans,4.058,4.1057,0.0477
+Dual,End,1,1,Shade,bottom,left,pylon 1,anemone,0,0,0
+Dual,End,1,1,Shade,bottom,left,pylon 1,mobile invertebrates,15.8329,18.7645,2.9316
+Dual,End,1,1,Shade,top,right,Pylon 1,soft worms,15.7616,19.7149,3.9533
+Dual,End,1,1,Shade,top,right,Pylon 1,hard worms,15.9191,24.2307,8.3116
+Dual,End,1,1,Shade,top,right,Pylon 1,live oysters,15.6954,18.8622,3.1668
+Dual,End,1,1,Shade,top,right,Pylon 1,dead oysters,58.0618,93.3384,35.2766
+Dual,End,1,1,Shade,top,right,Pylon 1,other bivalves,3.9952,4.558,0.5628
+Dual,End,1,1,Shade,top,right,Pylon 1,live barnacles,15.9132,24.2849,8.3717
+Dual,End,1,1,Shade,top,right,Pylon 1,dead barnacles,15.8989,20.8617,4.9628
+Dual,End,1,1,Shade,top,right,Pylon 1,bryozoans,4.0616,4.5326,0.471
+Dual,End,1,1,Shade,top,right,Pylon 1,anemone (add to soft worms),4.1713,4.1827,0.0114
+Dual,End,1,1,Shade,top,right,Pylon 1,ascidians,58.0549,120.3366,62.2817
+Dual,End,1,1,Shade,top,right,Pylon 1,sponge,15.7702,16.455,0.6848
+Single,End,1,1,Shade,top,left,Pylon 1,soft worms,16.0636,21.7052,5.6416
+Single,End,1,1,Shade,top,left,Pylon 1,hard worms,15.729,26.4441,10.7151
+Single,End,1,1,Shade,top,left,Pylon 1,live oysters,16.0709,17.3383,1.2674
+Single,End,1,1,Shade,top,left,Pylon 1,dead oysters,58.7713,91.2401,32.4688
+Single,End,1,1,Shade,top,left,Pylon 1,other bivalves,0,0,0
+Single,End,1,1,Shade,top,left,Pylon 1,dead barnacles,15.8608,18.6092,2.7484
+Single,End,1,1,Shade,top,left,Pylon 1,live barnacles,15.9881,20.3266,4.3385
+Single,End,1,1,Shade,top,left,Pylon 1,ascidians,58.7774,98.7866,40.0092
+Single,End,1,1,Shade,top,left,Pylon 1,algae,0,0,0
+Single,End,1,1,Shade,top,left,Pylon 1,sponge,16.0268,28.0174,11.9906
+Single,End,1,1,Shade,top,left,Pylon 1,bryozoans,4.2302,4.5565,0.3263
+Single,End,1,1,Shade,top,left,Pylon 1,anemone,0,0,0
+Single,End,1,1,Shade,top,left,Pylon 1,mobile invertebrates,4.0894,4.2812,0.1918
+Dual,Start,2,2,Shade,top,right,# 2,soft worms,15.913,17.2725,1.3595
+Dual,Start,2,2,Shade,top,right,# 2,hard worms,15.8629,20.5487,4.6858
+Dual,Start,2,2,Shade,top,right,# 2,live oysters,58.9682,64.9909,6.0227
+Dual,Start,2,2,Shade,top,right,# 2,dead oysters,15.8512,18.3629,2.5117
+Dual,Start,2,2,Shade,top,right,# 2,other bivalves,0,0,0
+Dual,Start,2,2,Shade,top,right,# 2,dead barnacles,16.0125,17.5076,1.4951
+Dual,Start,2,2,Shade,top,right,# 2,live barnacles,15.768,22.6237,6.8557
+Dual,Start,2,2,Shade,top,right,# 2,ascidians,15.751,28.6543,12.9033
+Dual,Start,2,2,Shade,top,right,# 2,algae,0,0,0
+Dual,Start,2,2,Shade,top,right,# 2,sponge,0,0,0
+Dual,Start,2,2,Shade,top,right,# 2,bryozoans,16.1554,17.1214,0.966
+Dual,Start,2,2,Shade,top,right,# 2,anemone,0,0,0
+Dual,Start,2,2,Shade,top,right,# 2,mobile invertebrates,0,0,0
+Dual,Start,2,2,Shade,top,left,# 2,soft worms,15.7241,17.2525,1.5284
+Dual,Start,2,2,Shade,top,left,# 2,hard worms,15.905,21.3183,5.4133
+Dual,Start,2,2,Shade,top,left,# 2,live oysters,16.0604,17.9983,1.9379
+Dual,Start,2,2,Shade,top,left,# 2,dead oysters,15.6979,18.0172,1.7771
+Dual,Start,2,2,Shade,top,left,# 2,other bivalves,0,0,0
+Dual,Start,2,2,Shade,top,left,# 2,dead barnacles,15.8467,17.6238,2.3193
+Dual,Start,2,2,Shade,top,left,# 2,live barnacles,15.9343,19.821,3.8867
+Dual,Start,2,2,Shade,top,left,# 2,ascidians,16.0406,20.4018,4.3612
+Dual,Start,2,2,Shade,top,left,# 2,algae,0,0,0
+Dual,Start,2,2,Shade,top,left,# 2,sponge,0,0,0
+Dual,Start,2,2,Shade,top,left,# 2,bryozoans,15.9702,16.4141,0.4439
+Dual,Start,2,2,Shade,top,left,# 2,anemone,0,0,0
+Dual,Start,2,2,Shade,top,left,# 2,mobile invertebrates,4.0932,4.1072,0.014
+Dual,End,2,2,Shade,top,left,pylon 2,soft worms,4.2511,5.8398,1.5887
+Dual,End,2,2,Shade,top,left,pylon 2,hard worms,15.9876,23.0478,7.0602
+Dual,End,2,2,Shade,top,left,pylon 2,live oysters,59.1929,72.7824,13.5895
+Dual,End,2,2,Shade,top,left,pylon 2,dead oysters,58.1014,64.0049,5.9035
+Dual,End,2,2,Shade,top,left,pylon 2,other bivalves,0,0,0
+Dual,End,2,2,Shade,top,left,pylon 2,dead barnacles,15.9133,21.0053,5.092
+Dual,End,2,2,Shade,top,left,pylon 2,live barnacles,15.9934,20.7947,4.8013
+Dual,End,2,2,Shade,top,left,pylon 2,ascidians,15.7342,38.6675,22.9333
+Dual,End,2,2,Shade,top,left,pylon 2,algae,4.0619,4.1046,0.0427
+Dual,End,2,2,Shade,top,left,pylon 2,sponge,4.1293,4.625,0.4957
+Dual,End,2,2,Shade,top,left,pylon 2,bryozoans,4.1958,5.4895,1.2937
+Dual,End,2,2,Shade,top,left,pylon 2,anemone,0,0,0
+Dual,End,2,2,Shade,top,left,pylon 2,mobile invertebrates,0,0,0
+Single,End,2,2,Shade,bottom,left,pylon 2,soft worms,15.9984,23.1916,7.1932
+Single,End,2,2,Shade,bottom,left,pylon 2,hard worms,15.8982,40.8917,24.9935
+Single,End,2,2,Shade,bottom,left,pylon 2,live oysters,15.9439,23.7799,7.836
+Single,End,2,2,Shade,bottom,left,pylon 2,dead oysters,59.2313,81.4721,22.2408
+Single,End,2,2,Shade,bottom,left,pylon 2,other bivalves,0,,0
+Single,End,2,2,Shade,bottom,left,pylon 2,dead barnacles,15.7977,17.4179,1.6202
+Single,End,2,2,Shade,bottom,left,pylon 2,live barnacles,59.0377,77.5498,18.5121
+Single,End,2,2,Shade,bottom,left,pylon 2,ascidians,15.9511,36.8571,20.906
+Single,End,2,2,Shade,bottom,left,pylon 2,algae,4.1876,4.9707,0.7831
+Single,End,2,2,Shade,bottom,left,pylon 2,sponge,0,,0
+Single,End,2,2,Shade,bottom,left,pylon 2,bryozoans,15.8656,16.9511,1.0855
+Single,End,2,2,Shade,bottom,left,pylon 2,anemone,0,,0
+Single,End,2,2,Shade,bottom,left,pylon 2,mobile invertebrates,0,,0
+Single,End,2,2,Shade,bottom,right,pylon 2,soft worms,4.0963,8.1499,4.0536
+Single,End,2,2,Shade,bottom,right,pylon 2,hard worms,15.9568,36.9544,20.9976
+Single,End,2,2,Shade,bottom,right,pylon 2,live oysters,15.9931,21.3136,5.3205
+Single,End,2,2,Shade,bottom,right,pylon 2,dead oysters,58.7903,75.3091,16.5188
+Single,End,2,2,Shade,bottom,right,pylon 2,other bivalves,0,0,0
+Single,End,2,2,Shade,bottom,right,pylon 2,dead barnacles,16.1187,18.7894,2.6707
+Single,End,2,2,Shade,bottom,right,pylon 2,live barnacles,15.7819,17.4571,1.6752
+Single,End,2,2,Shade,bottom,right,pylon 2,ascidians,15.8661,23.6891,7.823
+Single,End,2,2,Shade,bottom,right,pylon 2,algae,0,0,0
+Single,End,2,2,Shade,bottom,right,pylon 2,sponge,4.1919,5.1462,0.9543
+Single,End,2,2,Shade,bottom,right,pylon 2,bryozoans,15.8099,20.5437,4.7338
+Single,End,2,2,Shade,bottom,right,pylon 2,anemone,4.1017,4.1555,0.0538
+Single,End,2,2,Shade,bottom,right,pylon 2,mobile invertebrates,0,0,0
+Dual,End,2,2,Shade,top,right,pylon 2,soft worms,15.8735,20.1324,4.2589
+Dual,End,2,2,Shade,top,right,pylon 2,hard worms,15.7442,19.5146,3.7704
+Dual,End,2,2,Shade,top,right,pylon 2,live oysters,58.9847,65.8927,6.908
+Dual,End,2,2,Shade,top,right,pylon 2,dead oysters,58.2239,72.4296,14.2057
+Dual,End,2,2,Shade,top,right,pylon 2,other bivalves,0,0,0
+Dual,End,2,2,Shade,top,right,pylon 2,dead barnacles,15.8439,24.3645,8.5206
+Dual,End,2,2,Shade,top,right,pylon 2,live barnacles,15.8777,18.2243,2.3466
+Dual,End,2,2,Shade,top,right,pylon 2,ascidians,16.0527,29.535,13.4823
+Dual,End,2,2,Shade,top,right,pylon 2,algae,0,0,0
+Dual,End,2,2,Shade,top,right,pylon 2,sponge,0,0,0
+Dual,End,2,2,Shade,top,right,pylon 2,bryozoans,4.1562,4.2948,0.1386
+Dual,End,2,2,Shade,top,right,pylon 2,anemone,0,0,0
+Dual,End,2,2,Shade,top,right,pylon 2,mobile invertebrates,0,0,0
+Dual,Start,3,3,Small light,top,right,# 3,soft worms,4.096,5.1552,1.0592
+Dual,Start,3,3,Small light,top,right,# 3,hard worms,4.0254,4.6497,0.6243
+Dual,Start,3,3,Small light,top,right,# 3,live oysters,15.6824,18.3265,2.6441
+Dual,Start,3,3,Small light,top,right,# 3,dead oysters,16.0917,18.6032,2.5115
+Dual,Start,3,3,Small light,top,right,# 3,other bivalves,0,0,0
+Dual,Start,3,3,Small light,top,right,# 3,dead barnacles,0,0,0
+Dual,Start,3,3,Small light,top,right,# 3,live barnacles,0,0,0
+Dual,Start,3,3,Small light,top,right,# 3,ascidians,59.0806,107.6339,48.5533
+Dual,Start,3,3,Small light,top,right,# 3,algae,0,0,0
+Dual,Start,3,3,Small light,top,right,# 3,sponge,0,0,0
+Dual,Start,3,3,Small light,top,right,# 3,bryozoans,4.0592,7.4286,3.3694
+Dual,Start,3,3,Small light,top,right,# 3,anemone,0,0,0
+Dual,Start,3,3,Small light,top,right,# 3,mobile invertebrates,0,0,0
+Dual,Start,3,3,Small light,top,left,# 3,soft worms,0,0,0
+Dual,Start,3,3,Small light,top,left,# 3,hard worms,15.7523,32.8834,17.1311
+Dual,Start,3,3,Small light,top,left,# 3,live oysters,16.0355,18.0233,1.9878
+Dual,Start,3,3,Small light,top,left,# 3,dead oysters,15.8175,20.2086,4.3911
+Dual,Start,3,3,Small light,top,left,# 3,other bivalves,4.1307,4.2329,0.1022
+Dual,Start,3,3,Small light,top,left,# 3,dead barnacles,4.1473,4.9395,0.7922
+Dual,Start,3,3,Small light,top,left,# 3,live barnacles,0,0,0
+Dual,Start,3,3,Small light,top,left,# 3,ascidians,59.1395,76.9259,17.7864
+Dual,Start,3,3,Small light,top,left,# 3,algae,0,0,0
+Dual,Start,3,3,Small light,top,left,# 3,sponge,4.2116,5.4093,1.1977
+Dual,Start,3,3,Small light,top,left,# 3,bryozoans,16.2393,20.5147,4.2754
+Dual,Start,3,3,Small light,top,left,# 3,anemone,4.1363,4.2158,0.0795
+Dual,Start,3,3,Small light,top,left,# 3,mobile invertebrates,0,0,0
+Single,End,3,3,Small light,bottom,right,pylon 3,soft worms,4.2847,6.6637,2.379
+Single,End,3,3,Small light,bottom,right,pylon 3,hard worms,15.9422,27.6184,11.6762
+Single,End,3,3,Small light,bottom,right,pylon 3,live oysters,15.9169,17.0902,1.1733
+Single,End,3,3,Small light,bottom,right,pylon 3,dead oysters,59.1227,90.3137,31.191
+Single,End,3,3,Small light,bottom,right,pylon 3,other bivalves,0,0,0
+Single,End,3,3,Small light,bottom,right,pylon 3,dead barnacles,0,0,0
+Single,End,3,3,Small light,bottom,right,pylon 3,ascidians,0,0,0
+Single,End,3,3,Small light,bottom,right,pylon 3,algae,4.1947,4.7242,0.5295
+Single,End,3,3,Small light,bottom,right,pylon 3,sponge,4.1773,6.1017,1.9244
+Single,End,3,3,Small light,bottom,right,pylon 3,bryozoans,4.2555,7.6454,3.3899
+Single,End,3,3,Small light,bottom,right,pylon 3,anemone (add to soft worms),4.2022,4.2395,0.0373
+Single,End,3,3,Small light,bottom,right,pylon 3,mobile invertebrates,0,,0
+Dual,End,3,3,Small light,top,left,pylon 3,soft worms,4.1665,4.8047,0.6382
+Dual,End,3,3,Small light,top,left,pylon 3,hard worms,16.1457,28.2565,12.1108
+Dual,End,3,3,Small light,top,left,pylon 3,live oysters,0,0,0
+Dual,End,3,3,Small light,top,left,pylon 3,dead oysters,59.2534,165.5365,106.2831
+Dual,End,3,3,Small light,top,left,pylon 3,other bivalves,0,0,0
+Dual,End,3,3,Small light,top,left,pylon 3,dead barnacles,4.3321,4.5092,0.1771
+Dual,End,3,3,Small light,top,left,pylon 3,ascidians,15.9385,18.2827,2.3442
+Dual,End,3,3,Small light,top,left,pylon 3,algae,4.2129,5.0576,0.8447
+Dual,End,3,3,Small light,top,left,pylon 3,sponge,0,0,0
+Dual,End,3,3,Small light,top,left,pylon 3,bryozoans,16.165,17.6393,1.4743
+Dual,End,3,3,Small light,top,left,pylon 3,anemone (add to soft worms),4.1622,4.29,0.1278
+Dual,End,3,3,Small light,top,left,pylon 3,mobile invertebrates,4.3621,5.0451,0.683
+Dual,End,3,3,Small light,top,right,pylon 3,soft worms,15.8017,17.9827,2.181
+Dual,End,3,3,Small light,top,right,pylon 3,hard worms,15.8245,25.1665,9.342
+Dual,End,3,3,Small light,top,right,pylon 3,live oysters,16.0534,19.7205,3.6671
+Dual,End,3,3,Small light,top,right,pylon 3,dead oysters,58.2863,102.9761,44.6898
+Dual,End,3,3,Small light,top,right,pylon 3,other bivalves,0,0,0
+Dual,End,3,3,Small light,top,right,pylon 3,dead barnacles,15.9288,18.2007,2.2719
+Dual,End,3,3,Small light,top,right,pylon 3,ascidians,15.6976,17.8537,2.1561
+Dual,End,3,3,Small light,top,right,pylon 3,algae,15.797,15.9451,0.1481
+Dual,End,3,3,Small light,top,right,pylon 3,sponge,15.8301,17.084,1.2539
+Dual,End,3,3,Small light,top,right,pylon 3,bryozoans,15.8659,19.9934,4.1275
+Dual,End,3,3,Small light,top,right,pylon 3,anemone,0,0,0
+Dual,End,3,3,Small light,top,right,pylon 3,mobile invertebrates,15.8456,15.9414,0.0958
+Single,End,3,3,Small light,bottom,left,pylon 3,soft worms,15.9072,17.4833,1.5761
+Single,End,3,3,Small light,bottom,left,pylon 3,hard worms,16.0871,18.8968,2.8097
+Single,End,3,3,Small light,bottom,left,pylon 3,live oysters,0,0,0
+Single,End,3,3,Small light,bottom,left,pylon 3,dead oysters,59.3501,83.4208,24.0707
+Single,End,3,3,Small light,bottom,left,pylon 3,other bivalves,0,0,0
+Single,End,3,3,Small light,bottom,left,pylon 3,dead barnacles,15.7561,16.3331,0.577
+Single,End,3,3,Small light,bottom,left,pylon 3,ascidians,0,0,0
+Single,End,3,3,Small light,bottom,left,pylon 3,algae,16.0214,19.3508,3.3294
+Single,End,3,3,Small light,bottom,left,pylon 3,sponge,15.9777,22.9499,6.9722
+Single,End,3,3,Small light,bottom,left,pylon 3,bryozoans,0,0,0
+Single,End,3,3,Small light,bottom,left,pylon 3,anemone,0,0,0
+Single,End,3,3,Small light,bottom,left,pylon 3,mobile invertebrates,0,0,0
+Dual,Start,4,4,Large light,top,right,#4,soft worms,4.0868,5.4322,1.3454
+Dual,Start,4,4,Large light,top,right,#4,hard worms,15.668,21.1408,5.4728
+Dual,Start,4,4,Large light,top,right,#4,live oysters,15.6681,17.87989,2.21179
+Dual,Start,4,4,Large light,top,right,#4,dead oysters,15.8874,19.4571,3.5697
+Dual,Start,4,4,Large light,top,right,#4,other bivalves,0,0,0
+Dual,Start,4,4,Large light,top,right,#4,dead barnacles,4.1683,4.2199,0.0516
+Dual,Start,4,4,Large light,top,right,#4,live barnacles,0,0,0
+Dual,Start,4,4,Large light,top,right,#4,ascidians,15.7877,22.3843,6.5966
+Dual,Start,4,4,Large light,top,right,#4,algae,0,0,0
+Dual,Start,4,4,Large light,top,right,#4,sponge,4.1302,5.186,1.0558
+Dual,Start,4,4,Large light,top,right,#4,bryozoans,15.9319,21.3315,5.3996
+Dual,Start,4,4,Large light,top,right,#4,anemone,0,0,0
+Dual,Start,4,4,Large light,top,right,#4,mobile invertebrates,4.0662,5.2071,1.1409
+Dual,Start,4,4,Large light,bottom,left,#4,soft worms,4.0326,8.4472,4.4146
+Dual,Start,4,4,Large light,bottom,left,#4,hard worms,15.7623,24.4441,8.6818
+Dual,Start,4,4,Large light,bottom,left,#4,live oysters,15.841,19.5708,3.7298
+Dual,Start,4,4,Large light,bottom,left,#4,dead oysters,59.0734,64.359,5.2856
+Dual,Start,4,4,Large light,bottom,left,#4,other bivalves,0,0,0
+Dual,Start,4,4,Large light,bottom,left,#4,dead barnacles,4.0482,4.9805,0.9323
+Dual,Start,4,4,Large light,bottom,left,#4,live barnacles,0,0,0
+Dual,Start,4,4,Large light,bottom,left,#4,ascidians,59.0562,84.2876,25.2314
+Dual,Start,4,4,Large light,bottom,left,#4,algae,0,0,0
+Dual,Start,4,4,Large light,bottom,left,#4,sponge,16.0701,25.0699,8.9998
+Dual,Start,4,4,Large light,bottom,left,#4,bryozoans,15.8711,21.3503,5.4792
+Dual,Start,4,4,Large light,bottom,left,#4,anemone,0,0,0
+Dual,Start,4,4,Large light,bottom,left,#4,mobile invertebrates,15.819,16.9879,1.1689
+Dual,Start,4,4,Large light,bottom,left,#4,mystery ribbon,4.211,4.8989,0.6879
+Single,End,4,4,Large light,bottom,right,pylon 4,soft worms,16.0544,22.4374,6.383
+Single,End,4,4,Large light,bottom,right,pylon 4,hard worms,15.759,26.5936,10.8346
+Single,End,4,4,Large light,bottom,right,pylon 4,live oysters,0,0,0
+Single,End,4,4,Large light,bottom,right,pylon 4,dead oysters,59.4116,91.3287,31.9171
+Single,End,4,4,Large light,bottom,right,pylon 4,other bivalves,17.6856,17.7263,0.0407
+Single,End,4,4,Large light,bottom,right,pylon 4,dead barnacles,15.8031,16.117,0.3139
+Single,End,4,4,Large light,bottom,right,pylon 4,live barnacles,15.8035,22.1136,6.3101
+Single,End,4,4,Large light,bottom,right,pylon 4,ascidians,15.8468,17.781,0.3184
+Single,End,4,4,Large light,bottom,right,pylon 4,algae,15.8555,16.1652,0.1
+Single,End,4,4,Large light,bottom,right,pylon 4,sponge,15.8399,15.9555,0.1156
+Single,End,4,4,Large light,bottom,right,pylon 4,bryozoans,15.6543,21.0345,5.3802
+Single,End,4,4,Large light,bottom,right,pylon 4,anemone,0,0,0
+Single,End,4,4,Large light,bottom,right,pylon 4,mobile invertebrates,0,0,0
+Single,End,4,4,Large light,top,left,pylon 4,soft worms,15.7042,21.0707,5.3665
+Single,End,4,4,Large light,top,left,pylon 4,hard worms,15.6701,32.0024,16.3323
+Single,End,4,4,Large light,top,left,pylon 4,live oysters,15.8069,15.9783,0.1714
+Single,End,4,4,Large light,top,left,pylon 4,dead oysters,59.1252,79.9563,20.8311
+Single,End,4,4,Large light,top,left,pylon 4,other bivalves,0,0,0
+Single,End,4,4,Large light,top,left,pylon 4,dead barnacles,0,0,0
+Single,End,4,4,Large light,top,left,pylon 4,live barnacles,0,0,0
+Single,End,4,4,Large light,top,left,pylon 4,ascidians,0,0,0
+Single,End,4,4,Large light,top,left,pylon 4,algae,15.8141,16.711,0.8969
+Single,End,4,4,Large light,top,left,pylon 4,sponge,15.8649,17.4302,1.5653
+Single,End,4,4,Large light,top,left,pylon 4,bryozoans,15.755,15.7898,0.0348
+Single,End,4,4,Large light,top,left,pylon 4,anemone,0,0,0
+Single,End,4,4,Large light,top,left,pylon 4,mobile invertebrates,15.7337,15.7568,0.0231
+Dual,End,4,4,Large light,bottom,left,pylon 4,soft worms,16.4035,20.5059,4.1024
+Dual,End,4,4,Large light,bottom,left,pylon 4,hard worms,15.6455,24.6413,8.9958
+Dual,End,4,4,Large light,bottom,left,pylon 4,live oysters,15.9996,16.3634,0.3638
+Dual,End,4,4,Large light,bottom,left,pylon 4,dead oysters,15.8862,18.1476,2.2614
+Dual,End,4,4,Large light,bottom,left,pylon 4,other bivalves,0,0,0
+Dual,End,4,4,Large light,bottom,left,pylon 4,dead barnacles,15.896,16.1127,0.2167
+Dual,End,4,4,Large light,bottom,left,pylon 4,live barnacles,0,0,0
+Dual,End,4,4,Large light,bottom,left,pylon 4,ascidians,15.8731,20.4521,4.579
+Dual,End,4,4,Large light,bottom,left,pylon 4,algae,15.8475,16.5795,0.732
+Dual,End,4,4,Large light,bottom,left,pylon 4,sponge,15.7418,15.9664,0.2246
+Dual,End,4,4,Large light,bottom,left,pylon 4,bryozoans,15.8362,16.4616,0.6254
+Dual,End,4,4,Large light,bottom,left,pylon 4,anemone,0,0,0
+Dual,End,4,4,Large light,bottom,left,pylon 4,mobile invertebrates,15.8114,15.8228,0.0114
+Dual,End,4,4,Large light,top,right,pylon 4,soft worms,15.7909,16.4021,0.6112
+Dual,End,4,4,Large light,top,right,pylon 4,hard worms,15.6477,20.2444,4.5967
+Dual,End,4,4,Large light,top,right,pylon 4,live oysters,0,0,0
+Dual,End,4,4,Large light,top,right,pylon 4,dead oysters,59.7838,99.309,39.5252
+Dual,End,4,4,Large light,top,right,pylon 4,other bivalves,0,0,0
+Dual,End,4,4,Large light,top,right,pylon 4,dead barnacles,0,0,0
+Dual,End,4,4,Large light,top,right,pylon 4,live barnacles,0,0,0
+Dual,End,4,4,Large light,top,right,pylon 4,ascidians,15.9242,21.1315,5.2073
+Dual,End,4,4,Large light,top,right,pylon 4,algae,0,0,0
+Dual,End,4,4,Large light,top,right,pylon 4,sponge,0,0,0
+Dual,End,4,4,Large light,top,right,pylon 4,bryozoans,15.832,15.9412,0.1092
+Dual,End,4,4,Large light,top,right,pylon 4,anemone,0,0,0
+Dual,End,4,4,Large light,top,right,pylon 4,mobile invertebrates,15.7846,16.0715,0.2869
+Dual,Start,5,5,Small light,bottom,left,# 5,soft worms,4.0901,7.0774,2.9873
+Dual,Start,5,5,Small light,bottom,left,# 5,hard worms,4.0692,5.8859,1.8167
+Dual,Start,5,5,Small light,bottom,left,# 5,live oysters,16.0853,18.3378,2.2525
+Dual,Start,5,5,Small light,bottom,left,# 5,dead oysters,4.0087,4.1008,0.0921
+Dual,Start,5,5,Small light,bottom,left,# 5,other bivalves,0,0,0
+Dual,Start,5,5,Small light,bottom,left,# 5,dead barnacles,4.0989,4.1701,0.0712
+Dual,Start,5,5,Small light,bottom,left,# 5,live barnacles,0,0,0
+Dual,Start,5,5,Small light,bottom,left,# 5,ascidians,59.1205,138.9295,79.809
+Dual,Start,5,5,Small light,bottom,left,# 5,algae,0,0,0
+Dual,Start,5,5,Small light,bottom,left,# 5,sponge,0,0,0
+Dual,Start,5,5,Small light,bottom,left,# 5,bryozoans,4.1152,5.7012,1.586
+Dual,Start,5,5,Small light,bottom,left,# 5,anemone,0,0,0
+Dual,Start,5,5,Small light,bottom,left,# 5,mobile invertebrates,0,0,0
+Dual,Start,5,5,Small light,bottom,right,# 5,soft worms,4.0753,4.8512,0.7759
+Dual,Start,5,5,Small light,bottom,right,# 5,hard worms,15.8555,19.5301,3.6746
+Dual,Start,5,5,Small light,bottom,right,# 5,live oysters,15.723,16.9517,1.2287
+Dual,Start,5,5,Small light,bottom,right,# 5,dead oysters,16.0115,17.409,1.3975
+Dual,Start,5,5,Small light,bottom,right,# 5,other bivalves,0,0,0
+Dual,Start,5,5,Small light,bottom,right,# 5,dead barnacles,0,0,0
+Dual,Start,5,5,Small light,bottom,right,# 5,live barnacles,0,0,0
+Dual,Start,5,5,Small light,bottom,right,# 5,ascidians,59.0035,101.2391,42.2356
+Dual,Start,5,5,Small light,bottom,right,# 5,algae,0,0,0
+Dual,Start,5,5,Small light,bottom,right,# 5,sponge,0,0,0
+Dual,Start,5,5,Small light,bottom,right,# 5,bryozoans,4.1228,6.4636,2.3408
+Dual,Start,5,5,Small light,bottom,right,# 5,anemone,0,0,0
+Dual,Start,5,5,Small light,bottom,right,# 5,mobile invertebrates,0,0,0
+Dual,End,5,5,Small light,bottom,left,pylon 5,soft worms,4.082,5.8104,1.7284
+Dual,End,5,5,Small light,bottom,left,pylon 5,hard worms,15.7868,31.7307,15.9439
+Dual,End,5,5,Small light,bottom,left,pylon 5,live oysters,15.9719,16.4026,0.4307
+Dual,End,5,5,Small light,bottom,left,pylon 5,dead oysters,59.1865,156.5739,97.3874
+Dual,End,5,5,Small light,bottom,left,pylon 5,other bivalves,16.0914,18.1813,2.0899
+Dual,End,5,5,Small light,bottom,left,pylon 5,dead barnacles,15.9579,16.4432,0.4853
+Dual,End,5,5,Small light,bottom,left,pylon 5,live barnacles,0,0,0
+Dual,End,5,5,Small light,bottom,left,pylon 5,ascidians,0,0,0
+Dual,End,5,5,Small light,bottom,left,pylon 5,algae,4.1892,5.9094,1.7202
+Dual,End,5,5,Small light,bottom,left,pylon 5,sponge,4.0598,4.1068,0.047
+Dual,End,5,5,Small light,bottom,left,pylon 5,bryozoans,4.0648,4.2353,0.1705
+Dual,End,5,5,Small light,bottom,left,pylon 5,anemone,0,0,0
+Dual,End,5,5,Small light,bottom,left,pylon 5,mobile invertebrates,4.1215,4.1247,0.0032
+Dual,End,5,5,Small light,bottom,right,pylon 5,soft worms,4.1641,4.7852,0.6211
+Dual,End,5,5,Small light,bottom,right,pylon 5,hard worms,15.9225,23.4259,7.5034
+Dual,End,5,5,Small light,bottom,right,pylon 5,live oysters,15.8725,18.3855,2.513
+Dual,End,5,5,Small light,bottom,right,pylon 5,dead oysters,59.2933,78.1437,18.8504
+Dual,End,5,5,Small light,bottom,right,pylon 5,other bivalves,0,0,0
+Dual,End,5,5,Small light,bottom,right,pylon 5,dead barnacles,4.1505,4.3976,0.2471
+Dual,End,5,5,Small light,bottom,right,pylon 5,live barnacles,0,0,0
+Dual,End,5,5,Small light,bottom,right,pylon 5,ascidians,0,0,0
+Dual,End,5,5,Small light,bottom,right,pylon 5,algae,4.122,4.6509,0.5289
+Dual,End,5,5,Small light,bottom,right,pylon 5,sponge,4.0732,4.6248,0.5516
+Dual,End,5,5,Small light,bottom,right,pylon 5,bryozoans,4.2188,5.168,0.9492
+Dual,End,5,5,Small light,bottom,right,pylon 5,anemone,0,0,0
+Dual,End,5,5,Small light,bottom,right,pylon 5,mobile invertebrates,4.093,4.1226,0.0296
+Single,End,5,5,Small light,top,left,Pylon 5,soft worms,4.0163,5.1022,1.0859
+Single,End,5,5,Small light,top,left,Pylon 5,hard worms,15.8662,31.986,16.1198
+Single,End,5,5,Small light,top,left,Pylon 5,live oysters,15.9782,25.1939,9.2157
+Single,End,5,5,Small light,top,left,Pylon 5,dead oysters,15.8666,19.4335,3.5669
+Single,End,5,5,Small light,top,left,Pylon 5,other bivalves,0,0,0
+Single,End,5,5,Small light,top,left,Pylon 5,dead barnacles,0,0,0
+Single,End,5,5,Small light,top,left,Pylon 5,live barnacles,0,0,0
+Single,End,5,5,Small light,top,left,Pylon 5,ascidians,0,0,0
+Single,End,5,5,Small light,top,left,Pylon 5,algae,4.1261,5.5572,1.4311
+Single,End,5,5,Small light,top,left,Pylon 5,sponge,16.1213,21.5085,5.3872
+Single,End,5,5,Small light,top,left,Pylon 5,bryozoans,4.1119,4.32,0.2081
+Single,End,5,5,Small light,top,left,Pylon 5,anemone,0,0,0
+Single,End,5,5,Small light,top,left,Pylon 5,mobile invertebrates,0,0,0
+Single,End,5,5,Small light,top,right,pylon 5,soft worms,3.9703,5.9495,1.9792
+Single,End,5,5,Small light,top,right,pylon 5,hard worms,15.8124,31.953,16.1406
+Single,End,5,5,Small light,top,right,pylon 5,live oysters,68.7097,75.9407,7.231
+Single,End,5,5,Small light,top,right,pylon 5,dead oysters,59.0104,68.5553,9.5449
+Single,End,5,5,Small light,top,right,pylon 5,other bivalves,0,0,0
+Single,End,5,5,Small light,top,right,pylon 5,dead barnacles,4.2608,4.5612,0.3004
+Single,End,5,5,Small light,top,right,pylon 5,live barnacles,0,0,0
+Single,End,5,5,Small light,top,right,pylon 5,ascidians,15.8892,25.5772,9.688
+Single,End,5,5,Small light,top,right,pylon 5,algae,4.2656,6.8233,2.5577
+Single,End,5,5,Small light,top,right,pylon 5,sponge,4.2098,4.7389,0.5291
+Single,End,5,5,Small light,top,right,pylon 5,bryozoans,4.1443,5.9428,1.7985
+Single,End,5,5,Small light,top,right,pylon 5,anemone,0,0,0
+Single,End,5,5,Small light,top,right,pylon 5,mobile invertebrates,0,0,0
+Dual,Start,1,6,Natural light,bottom,right,# 6,soft worms,15.7687,17.5826,1.8139
+Dual,Start,1,6,Natural light,bottom,right,# 6,hard worms,15.9363,16.9563,1.02
+Dual,Start,1,6,Natural light,bottom,right,# 6,live oysters,59.1538,84.8067,25.6529
+Dual,Start,1,6,Natural light,bottom,right,# 6,dead oysters,15.7902,18.0536,2.2634
+Dual,Start,1,6,Natural light,bottom,right,# 6,other bivalves,0,0,0
+Dual,Start,1,6,Natural light,bottom,right,# 6,dead barnacles,16.0716,17.3216,1.25
+Dual,Start,1,6,Natural light,bottom,right,# 6,live barnacles,15.8051,16.9661,1.161
+Dual,Start,1,6,Natural light,bottom,right,# 6,ascidians,15.7683,21.9026,6.1343
+Dual,Start,1,6,Natural light,bottom,right,# 6,algae,0,0,0
+Dual,Start,1,6,Natural light,bottom,right,# 6,sponge,15.8485,15.9821,0.1336
+Dual,Start,1,6,Natural light,bottom,right,# 6,bryozoans,15.7287,21.0524,5.3237
+Dual,Start,1,6,Natural light,bottom,right,# 6,anemone,0,0,0
+Dual,Start,1,6,Natural light,bottom,right,# 6,mobile invertebrates,0,0,0
+Dual,Start,1,6,Natural light,top,right,# 6,soft worms,4.2227,4.5775,0.3548
+Dual,Start,1,6,Natural light,top,right,# 6,hard worms,3.9926,5.6404,1.6478
+Dual,Start,1,6,Natural light,top,right,# 6,live oysters,59.0842,74.7813,15.6971
+Dual,Start,1,6,Natural light,top,right,# 6,dead oysters,59.0739,87.1824,28.1085
+Dual,Start,1,6,Natural light,top,right,# 6,other bivalves,3.9957,4.0955,0.0998
+Dual,Start,1,6,Natural light,top,right,# 6,dead barnacles,16.2599,22.9514,6.6915
+Dual,Start,1,6,Natural light,top,right,# 6,live barnacles,15.9135,22.0575,6.144
+Dual,Start,1,6,Natural light,top,right,# 6,ascidians,15.8297,20.6274,4.7977
+Dual,Start,1,6,Natural light,top,right,# 6,algae,4.0268,4.0466,0.0198
+Dual,Start,1,6,Natural light,top,right,# 6,sponge,0,0,0
+Dual,Start,1,6,Natural light,top,right,# 6,bryozoans,4.0952,4.1177,0.0225
+Dual,Start,1,6,Natural light,top,right,# 6,anemone,0,0,0
+Dual,Start,1,6,Natural light,top,right,# 6,mobile invertebrates,4.0953,4.2064,0.1111
+Dual,End,1,6,Natural light,bottom,right,pylon 6,soft worms,4.1445,8.6195,4.475
+Dual,End,1,6,Natural light,bottom,right,pylon 6,hard worms,4.1044,7.667,3.5626
+Dual,End,1,6,Natural light,bottom,right,pylon 6,live oysters,15.7054,20.4984,4.793
+Dual,End,1,6,Natural light,bottom,right,pylon 6,dead oysters,59.1555,78.3665,19.211
+Dual,End,1,6,Natural light,bottom,right,pylon 6,other bivalves,0,0,0
+Dual,End,1,6,Natural light,bottom,right,pylon 6,dead barnacles,4.1573,7.1229,2.9656
+Dual,End,1,6,Natural light,bottom,right,pylon 6,live barnacles,4.0578,5.8939,1.8361
+Dual,End,1,6,Natural light,bottom,right,pylon 6,ascidians,15.8133,40.9066,25.0933
+Dual,End,1,6,Natural light,bottom,right,pylon 6,algae,4.0272,4.1945,0.1673
+Dual,End,1,6,Natural light,bottom,right,pylon 6,sponge,4.0538,7.5347,3.4809
+Dual,End,1,6,Natural light,bottom,right,pylon 6,bryozoans,4.1736,4.4172,0.2436
+Dual,End,1,6,Natural light,bottom,right,pylon 6,anemone,0,0,0
+Dual,End,1,6,Natural light,bottom,right,pylon 6,mobile invertebrates,0,0,0
+Single,End,1,6,Natural light,bottom,left,pylon 6,soft worms,15.7861,19.9675,4.1814
+Single,End,1,6,Natural light,bottom,left,pylon 6,hard worms,15.7301,20.8012,5.0711
+Single,End,1,6,Natural light,bottom,left,pylon 6,live oysters,58.9937,100.6514,41.6577
+Single,End,1,6,Natural light,bottom,left,pylon 6,dead oysters,0,,0
+Single,End,1,6,Natural light,bottom,left,pylon 6,other bivalves,0,,0
+Single,End,1,6,Natural light,bottom,left,pylon 6,dead barnacles,0,,0
+Single,End,1,6,Natural light,bottom,left,pylon 6,live barnacles,15.9469,17.452,1.5051
+Single,End,1,6,Natural light,bottom,left,pylon 6,ascidians,4.2279,4.3074,0.0795
+Single,End,1,6,Natural light,bottom,left,pylon 6,algae,,,0
+Single,End,1,6,Natural light,bottom,left,pylon 6,sponge,4.3199,4.6353,0.3154
+Single,End,1,6,Natural light,bottom,left,pylon 6,bryozoans,16.2243,37.8855,21.6612
+Single,End,1,6,Natural light,bottom,left,pylon 6,anemone,0,,0
+Single,End,1,6,Natural light,bottom,left,pylon 6,mobile invertebrates,there was 1 but 2 small,,0
+Dual,End,1,6,Natural light,top,right,pylon 6,soft worms,4.2208,6.9072,2.6864
+Dual,End,1,6,Natural light,top,right,pylon 6,hard worms,16.0924,20.6723,4.5799
+Dual,End,1,6,Natural light,top,right,pylon 6,live oysters,58.1348,92.7927,34.6579
+Dual,End,1,6,Natural light,top,right,pylon 6,dead oysters,59.802,78.1889,18.3869
+Dual,End,1,6,Natural light,top,right,pylon 6,other bivalves,0,0,0
+Dual,End,1,6,Natural light,top,right,pylon 6,dead barnacles,15.9041,19.5334,3.6293
+Dual,End,1,6,Natural light,top,right,pylon 6,live barnacles,15.9607,24.3454,8.3847
+Dual,End,1,6,Natural light,top,right,pylon 6,ascidians,0,0,0
+Dual,End,1,6,Natural light,top,right,pylon 6,algae,4.0834,4.2889,0.2055
+Dual,End,1,6,Natural light,top,right,pylon 6,sponge,0,0,0
+Dual,End,1,6,Natural light,top,right,pylon 6,bryozoans,15.8085,25.916,10.1075
+Dual,End,1,6,Natural light,top,right,pylon 6,anemone,0,,
+Dual,End,1,6,Natural light,top,right,pylon 6,mobile invertebrates,4.2317,4.5719,0.3402
+Single,End,1,6,Natural light,top,left,Pylon 6,soft worms,3.959,4.1267,0.1677
+Single,End,1,6,Natural light,top,left,Pylon 6,hard worms,4.0394,5.6384,1.599
+Single,End,1,6,Natural light,top,left,Pylon 6,live oysters,15.6459,17.2121,1.5662
+Single,End,1,6,Natural light,top,left,Pylon 6,dead oysters,59.2936,137.0377,77.7441
+Single,End,1,6,Natural light,top,left,Pylon 6,other bivalves,0,0,0
+Single,End,1,6,Natural light,top,left,Pylon 6,dead barnacles,15.9151,26.2388,10.3237
+Single,End,1,6,Natural light,top,left,Pylon 6,live barnacles,15.9188,23.5648,7.646
+Single,End,1,6,Natural light,top,left,Pylon 6,ascidians,58.0961,81.2702,23.1741
+Single,End,1,6,Natural light,top,left,Pylon 6,algae,4.0783,5.1209,1.0426
+Single,End,1,6,Natural light,top,left,Pylon 6,sponge,4.0694,4.6057,0.5363
+Single,End,1,6,Natural light,top,left,Pylon 6,bryozoans,4.1356,4.1902,0.0546
+Single,End,1,6,Natural light,top,left,Pylon 6,anemone,0,0,0
+Single,End,1,6,Natural light,top,left,Pylon 6,mobile invertebrates,4.033,4.3059,0.2729
+Dual,Start,2,7,Natural light,bottom,left,# 7,soft worms,15.8912,17.1898,1.2986
+Dual,Start,2,7,Natural light,bottom,left,# 7,hard worms,16.1474,22.6864,6.539
+Dual,Start,2,7,Natural light,bottom,left,# 7,live oysters,15.706,16.9422,1.2362
+Dual,Start,2,7,Natural light,bottom,left,# 7,dead oysters,15.7046,21.594,5.8894
+Dual,Start,2,7,Natural light,bottom,left,# 7,other bivalves,0,0,0
+Dual,Start,2,7,Natural light,bottom,left,# 7,dead barnacles,0,0,0
+Dual,Start,2,7,Natural light,bottom,left,# 7,live barnacles,0,0,0
+Dual,Start,2,7,Natural light,bottom,left,# 7,ascidians,15.9332,26.8619,10.9287
+Dual,Start,2,7,Natural light,bottom,left,# 7,algae,0,0,0
+Dual,Start,2,7,Natural light,bottom,left,# 7,sponge,0,0,0
+Dual,Start,2,7,Natural light,bottom,left,# 7,bryozoans,15.8628,17.523,1.6602
+Dual,Start,2,7,Natural light,bottom,left,# 7,anemone,0,0,0
+Dual,Start,2,7,Natural light,bottom,left,# 7,mobile invertebrates,0,0,0
+Dual,Start,2,7,Natural light,bottom,right,#7,soft worms,4.0167,5.9104,1.8937
+Dual,Start,2,7,Natural light,bottom,right,#7,hard worms,15.8168,20.2357,4.4189
+Dual,Start,2,7,Natural light,bottom,right,#7,live oysters,59.1238,79.1093,19.9855
+Dual,Start,2,7,Natural light,bottom,right,#7,dead oysters,15.9222,16.9675,1.0453
+Dual,Start,2,7,Natural light,bottom,right,#7,other bivalves,0,0,0
+Dual,Start,2,7,Natural light,bottom,right,#7,dead barnacles,4.2121,5.1372,0.9251
+Dual,Start,2,7,Natural light,bottom,right,#7,live barnacles,4.1304,4.4027,0.2723
+Dual,Start,2,7,Natural light,bottom,right,#7,ascidians,15.9405,21.3901,5.4496
+Dual,Start,2,7,Natural light,bottom,right,#7,algae,4.1395,4.2737,0.1342
+Dual,Start,2,7,Natural light,bottom,right,#7,sponge,4.1873,5.507,1.3197
+Dual,Start,2,7,Natural light,bottom,right,#7,bryozoans,3.985,4.8022,0.8172
+Dual,Start,2,7,Natural light,bottom,right,#7,anemone,0,0,0
+Dual,Start,2,7,Natural light,bottom,right,#7,mobile invertebrates,0,0,0
+Dual,End,2,7,Natural light,bottom,right,pylon 7,soft worms,4.1272,8.6306,4.5034
+Dual,End,2,7,Natural light,bottom,right,pylon 7,hard worms,4.1539,10.7312,6.5773
+Dual,End,2,7,Natural light,bottom,right,pylon 7,live oysters,15.9281,25.8343,9.9062
+Dual,End,2,7,Natural light,bottom,right,pylon 7,dead oysters,15.8952,18.8882,2.993
+Dual,End,2,7,Natural light,bottom,right,pylon 7,other bivalves,0,,0
+Dual,End,2,7,Natural light,bottom,right,pylon 7,dead barnacles,0,,0
+Dual,End,2,7,Natural light,bottom,right,pylon 7,live barnacles,0,,0
+Dual,End,2,7,Natural light,bottom,right,pylon 7,ascidians,15.9839,33.2542,17.2703
+Dual,End,2,7,Natural light,bottom,right,pylon 7,algae,4.1817,4.2491,0.0674
+Dual,End,2,7,Natural light,bottom,right,pylon 7,sponge,0,,0
+Dual,End,2,7,Natural light,bottom,right,pylon 7,bryozoans,4.1471,4.5536,0.4065
+Dual,End,2,7,Natural light,bottom,right,pylon 7,anemone,0,0,0
+Dual,End,2,7,Natural light,bottom,right,pylon 7,mobile invertebrates,0,0,0
+Dual,End,2,7,Natural light,bottom,left,pylon 7,soft worms,15.8472,23.8033,7.9561
+Dual,End,2,7,Natural light,bottom,left,pylon 7,hard worms,15.9897,32.9375,16.9478
+Dual,End,2,7,Natural light,bottom,left,pylon 7,live oysters,15.8678,21.224,5.3562
+Dual,End,2,7,Natural light,bottom,left,pylon 7,dead oysters,59.0123,91.9563,32.944
+Dual,End,2,7,Natural light,bottom,left,pylon 7,other bivalves,0,0,0
+Dual,End,2,7,Natural light,bottom,left,pylon 7,dead barnacles,4.0255,4.8635,0.838
+Dual,End,2,7,Natural light,bottom,left,pylon 7,live barnacles,15.7236,20.0345,4.3109
+Dual,End,2,7,Natural light,bottom,left,pylon 7,ascidians,15.9238,30.0956,14.1718
+Dual,End,2,7,Natural light,bottom,left,pylon 7,algae,4.2519,6.3364,2.0845
+Dual,End,2,7,Natural light,bottom,left,pylon 7,sponge,0,0,0
+Dual,End,2,7,Natural light,bottom,left,pylon 7,bryozoans,4.2109,6.7989,2.588
+Dual,End,2,7,Natural light,bottom,left,pylon 7,anemone,0,0,0
+Dual,End,2,7,Natural light,bottom,left,pylon 7,mobile invertebrates,4.2167,4.4043,0.1876
+Single,End,2,7,Natural light,top,right,pylon 7,soft worms,4.1546,7.2823,3.1277
+Single,End,2,7,Natural light,top,right,pylon 7,hard worms,16.0228,19.4993,3.4765
+Single,End,2,7,Natural light,top,right,pylon 7,live oysters,59.0708,118.7909,59.7201
+Single,End,2,7,Natural light,top,right,pylon 7,dead oysters,59.1316,90.8674,31.7358
+Single,End,2,7,Natural light,top,right,pylon 7,other bivalves,4.1322,4.412,0.2798
+Single,End,2,7,Natural light,top,right,pylon 7,dead barnacles,4.2091,6.6444,2.4353
+Single,End,2,7,Natural light,top,right,pylon 7,live barnacles,0,0,0
+Single,End,2,7,Natural light,top,right,pylon 7,ascidians,59.1455,80.9288,21.7833
+Single,End,2,7,Natural light,top,right,pylon 7,algae,4.1026,6.1171,2.0145
+Single,End,2,7,Natural light,top,right,pylon 7,sponge,4.1605,5.8952,1.7347
+Single,End,2,7,Natural light,top,right,pylon 7,bryozoans,4.1457,4.7022,0.5565
+Single,End,2,7,Natural light,top,right,pylon 7,anemone,0,0,0
+Single,End,2,7,Natural light,top,right,pylon 7,mobile invertebrates,4.1256,4.348,0.2224
+Single,End,2,7,Natural light,top,left,pylon 7,soft worms,15.8565,20.7887,4.9322
+Single,End,2,7,Natural light,top,left,pylon 7,hard worms,15.7438,19.5917,3.8479
+Single,End,2,7,Natural light,top,left,pylon 7,live oysters,59.6534,73.4577,13.8043
+Single,End,2,7,Natural light,top,left,pylon 7,dead oysters,58.7716,101.7923,43.0207
+Single,End,2,7,Natural light,top,left,pylon 7,other bivalves,0,,0
+Single,End,2,7,Natural light,top,left,pylon 7,dead barnacles,15.8776,17.2932,1.4156
+Single,End,2,7,Natural light,top,left,pylon 7,live barnacles,15.7857,16.2884,0.5027
+Single,End,2,7,Natural light,top,left,pylon 7,ascidians,15.8774,22.7069,6.8295
+Single,End,2,7,Natural light,top,left,pylon 7,algae,4.1039,4.1218,0.0179
+Single,End,2,7,Natural light,top,left,pylon 7,sponge,15.9203,17.2466,1.3263
+Single,End,2,7,Natural light,top,left,pylon 7,bryozoans,4.2637,4.6403,0.3766
+Single,End,2,7,Natural light,top,left,pylon 7,anemone,0,,0
+Single,End,2,7,Natural light,top,left,pylon 7,mobile invertebrates,4.1339,4.1981,0.0642
+Dual,Start,6,8,Large light,top,left,# 8,soft worms,4.0845,4.5621,0.4776
+Dual,Start,6,8,Large light,top,left,# 8,hard worms,15.7605,24.0887,8.3282
+Dual,Start,6,8,Large light,top,left,# 8,live oysters,15.8647,19.7297,3.865
+Dual,Start,6,8,Large light,top,left,# 8,dead oysters,15.8817,16.6973,0.8156
+Dual,Start,6,8,Large light,top,left,# 8,other bivalves,0,0,0
+Dual,Start,6,8,Large light,top,left,# 8,dead barnacles,0,0,0
+Dual,Start,6,8,Large light,top,left,# 8,live barnacles,0,0,0
+Dual,Start,6,8,Large light,top,left,# 8,ascidians,59.1239,77.5252,18.4013
+Dual,Start,6,8,Large light,top,left,# 8,algae,4.1105,4.1321,0.0216
+Dual,Start,6,8,Large light,top,left,# 8,sponge,4.0682,4.1102,0.042
+Dual,Start,6,8,Large light,top,left,# 8,bryozoans,15.9204,22.7796,6.8592
+Dual,Start,6,8,Large light,top,left,# 8,anemone,0,0,0
+Dual,Start,6,8,Large light,top,left,# 8,mobile invertebrates,0,0,0
+Dual,Start,6,8,Large light,bottom,right,# 8,soft worms,4.0524,7.3074,3.255
+Dual,Start,6,8,Large light,bottom,right,# 8,hard worms,4.094,6.1882,2.0942
+Dual,Start,6,8,Large light,bottom,right,# 8,live oysters,15.8988,18.1464,2.2476
+Dual,Start,6,8,Large light,bottom,right,# 8,dead oysters,16.1897,17.7378,1.5481
+Dual,Start,6,8,Large light,bottom,right,# 8,other bivalves,0,0,0
+Dual,Start,6,8,Large light,bottom,right,# 8,dead barnacles,0,0,0
+Dual,Start,6,8,Large light,bottom,right,# 8,live barnacles,4.1127,4.2587,0.146
+Dual,Start,6,8,Large light,bottom,right,# 8,ascidians,59.0965,93.1225,34.026
+Dual,Start,6,8,Large light,bottom,right,# 8,algae,0,0,0
+Dual,Start,6,8,Large light,bottom,right,# 8,sponge,4.042,4.8855,0.8435
+Dual,Start,6,8,Large light,bottom,right,# 8,bryozoans,4.0557,7.9846,3.9289
+Dual,Start,6,8,Large light,bottom,right,# 8,anemone,0,0,0
+Dual,Start,6,8,Large light,bottom,right,# 8,mobile invertebrates,4.1359,4.1733,0.0374
+Single,End,6,8,Large light,bottom,left,pylon 8,soft worms,15.6649,18.771,3.1061
+Single,End,6,8,Large light,bottom,left,pylon 8,hard worms,59.3793,78.5389,19.1596
+Single,End,6,8,Large light,bottom,left,pylon 8,live oysters,15.7303,18.2613,2.531
+Single,End,6,8,Large light,bottom,left,pylon 8,dead oysters,15.9124,16.8401,0.9277
+Single,End,6,8,Large light,bottom,left,pylon 8,other bivalves,4.095,4.2459,0.1509
+Single,End,6,8,Large light,bottom,left,pylon 8,dead barnacles,15.8274,16.4994,0.672
+Single,End,6,8,Large light,bottom,left,pylon 8,ascidians,15.855,29.7855,13.9305
+Single,End,6,8,Large light,bottom,left,pylon 8,algae,15.8094,18.3614,2.552
+Dual,End,6,8,Large light,top,left,pylon 8,soft worms,16.059,19.358,3.299
+Dual,End,6,8,Large light,top,left,pylon 8,hard worms,16.1232,32.2944,16.1712
+Dual,End,6,8,Large light,top,left,pylon 8,live oysters,15.8383,16.5131,0.6748
+Dual,End,6,8,Large light,top,left,pylon 8,dead oysters,16.0496,21.8147,5.7651
+Dual,End,6,8,Large light,top,left,pylon 8,other bivalves,15.9856,18.8855,2.8999
+Dual,End,6,8,Large light,top,left,pylon 8,dead barnacles,4.2466,4.7743,0.5277
+Dual,End,6,8,Large light,top,left,pylon 8,ascidians,15.889,25.5537,9.6647
+Dual,End,6,8,Large light,top,left,pylon 8,algae,4.2589,5.8639,1.605
+Dual,End,6,8,Large light,top,left,pylon 8,bryozoans,4.2664,5.2425,0.9761
+Dual,End,6,8,Large light,top,left,pylon 8,anemone (add to soft worms),4.2023,4.2218,0.0195
+Dual,End,6,8,Large light,bottom,right,pylon 8,soft worms,4.2858,6.6654,2.3796
+Dual,End,6,8,Large light,bottom,right,pylon 8,hard worms,16.0859,26.1071,10.0212
+Dual,End,6,8,Large light,bottom,right,pylon 8,live oysters,16.0633,22.2171,6.1538
+Dual,End,6,8,Large light,bottom,right,pylon 8,dead oysters,16.0763,30.4449,14.3686
+Dual,End,6,8,Large light,bottom,right,pylon 8,other bivalves,0,0,0
+Dual,End,6,8,Large light,bottom,right,pylon 8,dead barnacles,4.1523,4.2326,0.0803
+Dual,End,6,8,Large light,bottom,right,pylon 8,ascidians,15.9461,32.2256,16.2795
+Dual,End,6,8,Large light,bottom,right,pylon 8,algae,4.108,5.729,1.621
+Dual,End,6,8,Large light,bottom,right,pylon 8,bryozoans,4.1515,5.3632,1.2117
+Dual,End,6,8,Large light,bottom,right,pylon 8,anemone,4.266,4.2923,0.0263
+Single,End,6,8,Large light,top,right,pylon 8,soft worms,4.3145,5.7249,1.4104
+Single,End,6,8,Large light,top,right,pylon 8,hard worms,16.2383,35.165,18.9267
+Single,End,6,8,Large light,top,right,pylon 8,live oysters,16.1727,16.8335,0.6608
+Single,End,6,8,Large light,top,right,pylon 8,dead oysters,59.2891,108.4326,49.1435
+Single,End,6,8,Large light,top,right,pylon 8,other bivalves,15.9284,17.2702,1.3418
+Single,End,6,8,Large light,top,right,pylon 8,dead barnacles,4.3375,4.4362,0.0987
+Single,End,6,8,Large light,top,right,pylon 8,ascidians,15.9449,21.9213,5.9764
+Single,End,6,8,Large light,top,right,pylon 8,algae,4.2911,5.6986,1.4075
+Single,End,6,8,Large light,top,right,pylon 8,bryozoans,4.1866,5.9999,1.8133
+Single,End,6,8,Large light,top,right,pylon 8,anemone,0,0,0
+Single,End,6,8,Large light,top,right,pylon 8,mobile invertebrates,15.9371,17.2376,1.3005
